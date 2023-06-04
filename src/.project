@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Tema4Entrega4_GUI</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Images/logi.png</name>
+			<type>1</type>
+			<location>/Users/anon/Downloads/logi.png</location>
+		</link>
+		<link>
+			<name>src/Images/pngegg (3).png</name>
+			<type>1</type>
+			<location>/Users/anon/Downloads/pngegg (3).png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
